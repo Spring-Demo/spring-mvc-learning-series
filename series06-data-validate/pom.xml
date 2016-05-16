@@ -14,6 +14,13 @@
 	<name>seres06-data-validate Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
+	<dependencies>
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-validator</artifactId>
+		</dependency>
+	</dependencies>
+
 	<build>
 		<finalName>series06-data-validate</finalName>
 	</build>
