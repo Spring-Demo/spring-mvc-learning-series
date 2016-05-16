@@ -1,3 +1,6 @@
+# SpringMVC学习系列（4） 之 数据绑定-1
+# http://www.cnblogs.com/liukemng/p/3729071.html
+
 # 绑定数据的注解
 1.@RequestParam，绑定单个请求数据，可以是URL中的数据，表单提交的数据或上传的文件； 
 2.@PathVariable，绑定URL模板变量值； 
