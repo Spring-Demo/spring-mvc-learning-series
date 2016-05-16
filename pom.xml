@@ -100,5 +100,6 @@
 		<module>series02-helloworld</module>
 		<module>series03-mapping-rules</module>
 		<module>series04-data-binding</module>
+		<module>seres06-data-validate</module>
 	</modules>
 </project>
